@@ -14,20 +14,6 @@ __*The author of Bitcoin.*__
  - Ryuichi Sakamoto |
 
 ---
-## What is __*fiat*__ currency?
-
- - Money you pay Tony to "fix it again" |
- - Money based on the Gold Standard |
- - Money for nothing |
-
----
-## What Python keyword is used to create generators?
-
- - gen |
- - yield |
- - weep |
-
----
 ## What is money?
 
  - A store of value
